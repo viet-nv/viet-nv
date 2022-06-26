@@ -12,7 +12,7 @@ I'm own my master. Just the way I like it!
 
 **ℹ About me**
 - 💼 FrontEnd Engineer at [KyberSwap](http://kyberswap.com/)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/viet-nv/viet-nv/issues)
 - 📫 How to reach me: vietnv1304@gmail.com
 
 **🔧 Technologies & Tools**
