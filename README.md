@@ -29,7 +29,9 @@ I'm own my master. Just the way I like it!
  <img height="20" alt="neovim" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 </code>
 
+**✓ Badges**
+[![@viet_nv's Holopin board](https://holopin.me/viet_nv)](https://holopin.io/@viet_nv)
+
 **⚡ Github Stats**
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viet-nv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="viet-nv's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viet-nv&hide_border=true" /></a> |
 | ------------- | ------------- |
-
